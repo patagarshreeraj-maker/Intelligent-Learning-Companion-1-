@@ -2,6 +2,8 @@
 
 AI StudyMate is an AI-powered learning platform designed to help students study smarter through personalized tutoring, document analysis, quizzes, flashcards, viva practice, and AI-generated study plans.
 
+You can access :-https://intelligent-learning-companion.ai.studio
+
 ## 🏷️ Project Badges
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react\&logoColor=white)
