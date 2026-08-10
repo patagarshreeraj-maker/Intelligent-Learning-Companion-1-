@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ad8f7cd7-c2a5-4864-b732-4b072c83d778
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Project Badges: React 18, TypeScript, Express, Tailwind CSS, Google Gemini API, and MIT License.
+Detailed Features Breakdown:
+🤖 AI Voice & Chat Tutor + Oral Viva Practice
+📄 PDF Studio & Gemini Vision OCR Reader
+🎴 Spaced-Repetition Flashcards Deck
+📝 Quiz & Formal University Question Paper Generator
+📊 Weak Topic Detector & Knowledge Gap Analytics
+📅 Smart 30-Day AI Study Planner
+System Architecture Diagram: ASCII workflow mapping React frontend 
+ Express backend proxy 
+ Google Gemini API multi-model fallback engine.
+Complete API Endpoints Reference Table: Documenting all backend proxy routes (/api/ai/*).
+Quick Start & Local Setup: Step-by-step instructions for git clone, npm install, .env setup, and npm run dev.
+Production Build & Deployment: Commands for npm run build, npm run start, and a sample Dockerfile for containerized environments (Cloud Run, Docker, Railway).
+Directory Structure & Troubleshooting: Project map and solutions for API quota limits (429) and scanned PDF OCR handling.
